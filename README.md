@@ -1,7 +1,7 @@
 ## Hello 👋 It's me Ajay  
 
 ### Frontend Web Developer
-<img align="right" width="300" height="200" src="https://ndinfotech.co.in/images/b3.gif">
+<img align="right" width="400" src="https://ndinfotech.co.in/images/b3.gif">
 
 - 🔭 Here's my [portfolio](https://ajaym-portfolio.vercel.app/)                                                 
 - 👯 Currently I’m seeking for a job 
