@@ -1,7 +1,7 @@
 ## Hello 👋 It's me Ajay  
 
 ### Frontend Web Developer
-<img align="right" width="370" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRqbXp1cGgzNXhxeDZsc2J3bzA2cXJvNnM3dWVxaHNhMjB2bnloeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img align="right" width="370" height="250" src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif">
 
 - 🔭 Here's my [portfolio](https://ajaym-portfolio.vercel.app/)                                                 
 - 👯 Currently I’m seeking for a job 
